@@ -6,4 +6,6 @@
  .head {
     color: red;
     text-decoration: none;
+    text-align: center;
+    grid-row: 3;
  }
